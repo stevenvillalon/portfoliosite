@@ -1,2 +1,2 @@
 # portfoliosite
-This is the repository for my Data Science portfolio.
+This is the repository for my Data Science portfolio website.
