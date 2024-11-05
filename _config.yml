@@ -3,3 +3,11 @@ theme: jekyll-theme-slate
 description: "Showcasing my data science projects and achievements."
 baseurl: ""
 url: "https://stevenvillalon.github.io/portfoliosite/"
+
+author: stevenvillalon
+email: "180530680+stevenvillalon@users.noreply.github.com"
+
+# Jekyll settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
