@@ -1,10 +1,10 @@
 title: "Steven Villalon's Data Science Portfolio"
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: "pages-themes/slate@v0.2.0"
 description: "Showcasing my data science projects and achievements."
 baseurl: "/portfoliosite"
 url: "https://stevenvillalon.github.io/portfoliosite/"
 
-author: stevenvillalon
+author: "stevenvillalon"
 email: "180530680+stevenvillalon@users.noreply.github.com"
 
 # Jekyll settings
