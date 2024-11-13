@@ -1,7 +1,7 @@
 title: "Steven Villalon's Data Science Portfolio"
 theme: jekyll-theme-slate
 description: "Showcasing my data science projects and achievements."
-baseurl: ""
+baseurl: "/portfoliosite"
 url: "https://stevenvillalon.github.io/portfoliosite/"
 
 author: stevenvillalon
