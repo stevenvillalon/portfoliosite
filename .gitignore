@@ -3,3 +3,4 @@
 .LSOverride
 *.swp
 *.lock
+Gemfile

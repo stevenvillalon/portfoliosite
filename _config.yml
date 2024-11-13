@@ -1,5 +1,5 @@
 title: "Steven Villalon's Data Science Portfolio"
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
 description: "Showcasing my data science projects and achievements."
 baseurl: "/portfoliosite"
 url: "https://stevenvillalon.github.io/portfoliosite/"
@@ -8,6 +8,5 @@ author: stevenvillalon
 email: "180530680+stevenvillalon@users.noreply.github.com"
 
 # Jekyll settings
-markdown: kramdown
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
