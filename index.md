@@ -6,7 +6,7 @@ layout: default
 
 Welcome to my portfolio page! My name is Steve and I am a data science student at Notre Dame (Class of 2026). This site is intended to showcase my data science skills and interests.
 
-[Email Me](mailto:steven.villalon@gmail.com)<br>
+[Email Me!](mailto:steven.villalon@gmail.com)<br>
 
 
 # Projects
@@ -24,12 +24,10 @@ Next semester, I'll be diving into Linear Models and Introduction to Machine Lea
 <br>
 ### About Me
 
-I'm a marketing professional with 9 years of experience working for AT&T.
-
-Marketing and data science are intricately connected, which is why I am currently pursuing a Master's degree in Data Science. I love helping executives answer questions about what's going on with their business.
+I'm a marketing professional with 9 years of experience working for AT&T. Marketing and data science are intricately connected, which is why I am currently pursuing a Master's degree in Data Science. I love helping executives answer questions about what's going on with their business.
 
 I live in Miami, FL with my wife Alejandra and my dog Albert.
 
 <br>
 
-**Last Updated:** {{ "now" | date: "%B %d, %Y" }}
+**Last Updated:** November 13, 2024
